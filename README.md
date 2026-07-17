@@ -1,9 +1,11 @@
+**English** · [Français](README.fr.md)
+
 # Windows RTX 5090 Cinema Workstation - Full Install Log
 
 **Date:** 8 mars 2026, 00h27 - 03h35 (Session 1: 27 min + Session 2: ~2h30 ongoing)
 **Machine:** Windows 11, NVIDIA GeForce RTX 5090 32GB VRAM, Driver 591.74
 **Method:** Claude Code (Opus 4.6) via Pinokio - fully automated, zero manual intervention
-**Operator:** Ismael Joffroy Chandoutis (@12georgiadis)
+**Operator:** Ismael Joffroy Chandoutis (@ismael-joffroy-chandoutis)
 
 ---
 
