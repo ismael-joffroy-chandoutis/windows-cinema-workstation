@@ -317,7 +317,6 @@ C'est ce qui arrive quand on donne à un agent IA un accès complet au système 
 ---
 
 *Généré par Claude Code (Opus 4.6) - 8 mars 2026*
-*Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>*
 
 Par [Ismaël Joffroy Chandoutis](https://ismaeljoffroychandoutis.com).
 </content>
